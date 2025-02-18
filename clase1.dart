@@ -16,7 +16,7 @@ class figura {
        } //funcion calcularPerimetro 
   } //clase figura
     void main (){
-      print("aldo daniel saucedo de luna mat 22308051281310 gpo 6 j");
+     print("aldo daniel saucedo de luna mat 22308051281310 gpo 6 j");
       var rectangulo = figura(10, 5);
       rectangulo.mostrar();
       rectangulo.calcularArea();
